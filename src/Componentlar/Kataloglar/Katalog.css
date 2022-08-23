@@ -1,0 +1,7 @@
+.Katalog{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 25px;
+    padding:30px 100px;
+
+}

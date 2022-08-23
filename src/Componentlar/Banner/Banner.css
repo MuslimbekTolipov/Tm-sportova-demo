@@ -1,0 +1,63 @@
+
+.rasm{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 20px;
+    padding: 20px;
+    margin-bottom: 60px;
+}
+.kota{
+ border-radius: 10px;
+ padding: 50px;
+ width: 100%;
+ background-image: url("../../datas/rasm.png");
+ background-size: cover;
+ background-repeat: no-repeat;
+
+} 
+
+.kota h1{
+    /* width: 600px; */
+    color: royalblue;
+    font-size: 50px;
+    font-weight:900;
+    line-height: 49px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:oblique;
+}
+.kota p{
+    width: 400px;
+    margin: 20px 0;
+     font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.kota button{
+    width: 150px;
+    height: 30px;
+    font-size: 10px;
+    background: linear-gradient(90deg, #F04716 0%, #FFC62F 100%);
+    border: none;
+    border-radius: 5px;
+}
+.box{
+    width: 100%;
+}
+.kichik1{
+    background-image: url("../../datas/rasm2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 220px;
+    margin-bottom: 20px;
+    padding:30px;
+    border-radius: 12px;
+
+}
+.kichik {
+    background-image: url("../../datas/rasm3.png");
+    background-size: cover;
+    height: 220px;
+    padding: 30px;
+    border-radius: 12px;
+
+}

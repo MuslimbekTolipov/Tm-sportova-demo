@@ -1,0 +1,23 @@
+.Xizmat{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 10px;
+    padding: 20px 50px;
+}
+.Xizmat .cantainer{
+    width: 90%;
+    padding: 10px;
+}
+.Xizmat .cantainer h1{
+    margin: 10px;
+}
+.Xizmat .cantainer p{
+    margin-bottom: 20px;
+    font-family:'Times New Roman', Times, serif;
+    width: 80%;
+}
+.Xizmat .cantainer b{
+    color: deepskyblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

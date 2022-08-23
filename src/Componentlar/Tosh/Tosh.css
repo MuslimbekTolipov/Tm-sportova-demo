@@ -1,0 +1,7 @@
+.Tosh{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 30px;
+    padding: 50px;
+
+}
